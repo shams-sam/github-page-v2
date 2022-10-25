@@ -26,19 +26,19 @@ show_drafts: false
 # Algolia
 algolia:
   application_id: 99NYQNU15U
-  index_name: machine_learning_medium
+  index_name: pairml_notes
   search_only_api_key: c1a81c44a486ccb7fb3e44114bf37b26
 
 # Permalinks
 permalink: /:year/:month/:day/:title/
 
 # Site settings
-title: "Machine Learning Medium"
+title: "Notes"
 description: Recursing the Rabbit Hole
 cover: "/assets/images/cover.jpg"
 footer: "/assets/images/footer.jpg"
-url: "https://machinelearningmedium.com"
-facebook_page: "https://www.facebook.com/machinelearningmedium/"
+url: "https://notes.pairml.com"
+facebook_page: "https://www.facebook.com/pairmlnotes/"
 facebook_app_id: 391866664565981
 baseurl: ""
 google_analytics: UA-108148924-1
@@ -110,11 +110,11 @@ autopages:
 # Author Info
 author:
   name: 'Shams S'
-  email: azam1@purdue.edu
-  description: 'Research Assistant @ Purdue University'
+  email: s.shams.sam@gmail.com
+  description: 'AIML Resident @ Apple'
   image: "/assets/images/author.jpg"
-  twitter_handle: '@sshamssam'
-  twitter_url: 'https://twitter.com/sshamsofficial'
+  twitter_handle: '@sshamsazam'
+  twitter_url: 'https://twitter.com/sshamsazam'
   disqus: shams-sam
 
 # Social icons and sharing options
@@ -134,7 +134,7 @@ social:
     share_link: "&amp;u="
 
   - icon:	twitter
-    url:	https://twitter.com/sshamsofficial
+    url:	https://twitter.com/sshamsazam
     desc: Twitter
     share_url: http://twitter.com/share
     share_title: ?text=
@@ -148,7 +148,7 @@ social:
     share_link:
 
   - icon: envelope
-    url: "mailto:azam1@purdue.edu"
+    url: "mailto:s.shams.sam@gmail.com"
     desc: E-mail
     share_url:
     share_title:
